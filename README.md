@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DesafioAcademiaCapgemini
 =======
 ## Getting Started
